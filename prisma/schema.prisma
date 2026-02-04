@@ -1,0 +1,53 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
+}
+
+// User who fills out the payment form
+model User {
+  id        String    @id @default(cuid())
+  name      String
+  email     String
+  phone     String
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+  payments  Payment[]
+
+  @@index([email])
+}
+
+// Payment record
+model Payment {
+  id              String   @id @default(cuid())
+  razorpayOrderId String   @unique
+  razorpayPaymentId String?
+  razorpaySignature String?
+  amount          Int      // Amount in paise
+  currency        String   @default("INR")
+  plan            String   // "monthly" or "yearly"
+  status          String   @default("pending") // pending, completed, failed
+  receiptSent     Boolean  @default(false)
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+  
+  userId          String
+  user            User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([status])
+  @@index([createdAt])
+}
+
+// Admin credentials (simple auth)
+model Admin {
+  id       String @id @default(cuid())
+  email    String @unique
+  password String // hashed password
+}
