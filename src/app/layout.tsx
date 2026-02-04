@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   title: "Stock Bureau India",
   description: "Created by TheRDGroupOfIndustries",
   icons: {
-    icon: "/logo2.png",
+    icon: "/nlogo.jpeg",
   },
 };
 

@@ -7,21 +7,21 @@ import React from "react";
 const Navbar: React.FC = () => {
   return (
     <nav className="fixed top-0 w-full bg-white/95 backdrop-blur-sm z-50 border-b border-gray-100">
-      <div className="max-w-7xl mx-auto px-6 py-2">
-        <div className="flex items-center justify-between">
+      <div className="max-w-7xl mx-auto px-6 py-4">
+        <div className="flex items-center justify-between ">
           {/* Brand */}
-          <Link href={'/'} className="flex-shrink-0 -my-2">
+          <Link href={'/'} className="flex-shrink-0 -my-2 ">
             <div className="flex items-center">
-              <Image  
-                width={160} 
-                height={160} 
-                src="/logo2.png" 
-                alt="BENZZ TRADING" 
-                className="h-16 w-auto sm:h-20 md:h-24" 
+              <Image
+                width={200}
+                height={60}
+                src="/nlogo2.png"
+                alt="Stock Bureau India"
+                className="h-10 w-auto sm:h-12 md:h-14"
               />
             </div>
           </Link>
-          
+
           {/* Desktop Links */}
           <div className="hidden md:flex items-center space-x-8">
             <Link
