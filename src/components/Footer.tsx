@@ -171,7 +171,7 @@ const Footer: React.FC = () => {
 
         {/* Footer Bottom */}
         <div className="border-t border-gray-800 mt-8 pt-6 text-center text-gray-400 text-sm space-y-2">
-          <p>© 2025 Stock India Trading. All rights reserved.</p>
+          <p>© 2026 Stock India Trading. All rights reserved.</p>
           <p>
             Developed by{" "}
             <a
