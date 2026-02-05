@@ -37,7 +37,7 @@ const Hero: React.FC = () => {
                 href="#courses"
                 className="inline-flex items-center justify-center cursor-pointer bg-primary text-white px-8 py-4 rounded-lg text-lg font-semibold bg-[#15803d] hover:bg-[#166534] transition-colors whitespace-nowrap"
               >
-                Start Learning
+                Start Investing
               </a>
 
               <a
@@ -45,7 +45,7 @@ const Hero: React.FC = () => {
                 href="https://api.whatsapp.com/send?phone=919997690669"
                 className="inline-flex items-center justify-center cursor-pointer border-2 border-primary text-primary px-8 py-4 rounded-lg text-[#15803d] text-lg font-semibold hover:bg-primary hover:bg-[#15803d] hover:text-white transition-colors whitespace-nowrap"
               >
-                Consult Now
+                Book Consulting Call
               </a>
             </div>
 
