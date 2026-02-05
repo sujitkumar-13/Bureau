@@ -16,6 +16,7 @@ import ContactSection from "@/components/ContactSection";
 export default function Home() {
   return (
     <div>
+      <Navbar />
       <Hero />
       <Bureau />
       <PhilosophySection />
