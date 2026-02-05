@@ -11,6 +11,7 @@ import Serve from "@/components/WhoWeServe";
 import Image from "@/components/Images"
 import Blogs from "@/components/Blogs";
 import FAQSection from "@/components/FAQSection";
+import ContactSection from "@/components/ContactSection";
 
 export default function Home() {
   return (
@@ -25,6 +26,7 @@ export default function Home() {
       <TestimonialsSection />
       <Image />
       <Blogs />
+      <ContactSection />
       <FAQSection />
       <Footer />
     </div>

@@ -48,6 +48,12 @@ const Navbar: React.FC = () => {
             >
               Reviews
             </Link>
+            <Link
+              href="/#contact"
+              className="text-gray-700 hover:text-primary transition-colors"
+            >
+              Contact
+            </Link>
             <button
               onClick={() =>
                 window.open(

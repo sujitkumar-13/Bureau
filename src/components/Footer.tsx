@@ -51,6 +51,9 @@ const Footer: React.FC = () => {
               <a href="/#services" className="block text-gray-400 hover:text-white">
                 Our Focus
               </a>
+              <a href="/#contact" className="block text-gray-400 hover:text-white">
+                Contact Us
+              </a>
               <a
                 href="/#testimonials"
                 className="block text-gray-400 hover:text-white"
