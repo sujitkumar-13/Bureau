@@ -48,6 +48,30 @@ const Hero: React.FC = () => {
               </a>
             </div>
 
+            {/* Stats */}
+            <div className="flex flex-wrap items-center gap-6 text-sm text-gray-600">
+              <div className="flex items-center space-x-2">
+                <div className="w-4 h-4 flex items-center justify-center">
+                  <i className="ri-user-line text-primary" />
+                </div>
+                <span>400+ Learners</span>
+              </div>
+
+              <div className="flex items-center space-x-2">
+                <div className="w-4 h-4 flex items-center justify-center">
+                  <i className="ri-time-line text-primary" />
+                </div>
+                <span>13+ Years Experience</span>
+              </div>
+
+              <div className="flex items-center space-x-2">
+                <div className="w-4 h-4 flex items-center justify-center">
+                  <i className="ri-global-line text-primary" />
+                </div>
+                <span>Global Markets</span>
+              </div>
+            </div>
+          </div>
 
           {/* Right side image or extra content could go here if needed */}
         </div>
