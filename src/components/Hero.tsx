@@ -22,12 +22,11 @@ const Hero: React.FC = () => {
             <div className="space-y-4">
               {/* Removed duplicate/overlay logo per request */}
               <h1 className="text-4xl font-bold text-gray-900 font-montserrat leading-tight">
-                Master the Market with Confidence
+                Your Trusted Partner in Smart Investing
               </h1>
 
               <p className="text-xl text-gray-600 leading-relaxed">
-                Transform your trading journey with expert guidance. 13+ years of experience, 400+ successful learners, and
-                proven strategies for Indian &amp; global markets.
+                Stock Bureau India is a stock market consulting and investment advisory company based in Varanasi, helping individuals and businesses make informed, disciplined, and goal-oriented investment decisions.
               </p>
             </div>
 
