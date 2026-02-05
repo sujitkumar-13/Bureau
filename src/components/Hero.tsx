@@ -33,7 +33,7 @@ const Hero: React.FC = () => {
             {/* CTA Buttons */}
             <div className="flex flex-col sm:flex-row gap-4">
               <a
-                href="#courses"
+                href="https://api.whatsapp.com/send?phone=918303777132"
                 className="inline-flex items-center justify-center cursor-pointer bg-primary text-white px-8 py-4 rounded-lg text-lg font-semibold bg-[#15803d] hover:bg-[#166534] transition-colors whitespace-nowrap"
               >
                 Start Investing
@@ -41,7 +41,7 @@ const Hero: React.FC = () => {
 
               <a
                 target="_blank"
-                href="https://api.whatsapp.com/send?phone=919997690669"
+                href="/#contact"
                 className="inline-flex items-center justify-center cursor-pointer border-2 border-primary text-primary px-8 py-4 rounded-lg text-[#15803d] text-lg font-semibold hover:bg-primary hover:bg-[#15803d] hover:text-white transition-colors whitespace-nowrap"
               >
                 Book Consulting Call
@@ -73,9 +73,9 @@ const Hero: React.FC = () => {
             </div>
           </div>
 
-            {/* Right side image or extra content could go here if needed */}
-          </div>
+          {/* Right side image or extra content could go here if needed */}
         </div>
+      </div>
     </section>
   );
 };
