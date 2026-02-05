@@ -73,9 +73,9 @@ const Hero: React.FC = () => {
             </div>
           </div>
 
-          {/* Right side image or extra content could go here if needed */}
+            {/* Right side image or extra content could go here if needed */}
+          </div>
         </div>
-      </div>
     </section>
   );
 };

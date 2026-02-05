@@ -61,7 +61,7 @@ const TestimonialsSection: React.FC = () => {
   }, []);
 
   return (
-    <section id="testimonials" className="py-20 bg-gray-50 relative overflow-hidden">
+    <section id="testimonials" className="py-7 bg-gray-50 relative overflow-hidden">
       <div className="max-w-5xl mx-auto px-6 text-center">
         {/* Header */}
         <div className="space-y-4 mb-12">
