@@ -6,7 +6,6 @@ import { RiArrowLeftSLine, RiArrowRightSLine, RiCloseLine } from "react-icons/ri
 
 const images = [
   { id: 1, src: "/images/1.jpeg", alt: "Image 1", orientation: "landscape" },
-  { id: 2, src: "/images/2.jpeg", alt: "Image 2", orientation: "portrait" },
   { id: 3, src: "/images/3.jpeg", alt: "Image 3", orientation: "landscape" },
   { id: 4, src: "/images/4.jpeg", alt: "Image 4", orientation: "portrait" },
   { id: 5, src: "/images/5.jpeg", alt: "Image 5", orientation: "landscape" },
