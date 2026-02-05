@@ -54,21 +54,21 @@ const Hero: React.FC = () => {
                 <div className="w-4 h-4 flex items-center justify-center">
                   <i className="ri-user-line text-primary" />
                 </div>
-                <span>400+ Learners</span>
+                <span></span>
               </div>
 
               <div className="flex items-center space-x-2">
                 <div className="w-4 h-4 flex items-center justify-center">
                   <i className="ri-time-line text-primary" />
                 </div>
-                <span>13+ Years Experience</span>
+                <span></span>
               </div>
 
               <div className="flex items-center space-x-2">
                 <div className="w-4 h-4 flex items-center justify-center">
                   <i className="ri-global-line text-primary" />
                 </div>
-                <span>Global Markets</span>
+                <span></span>
               </div>
             </div>
           </div>
