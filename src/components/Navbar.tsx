@@ -68,13 +68,13 @@ const Navbar: React.FC = () => {
             <button
               onClick={() =>
                 window.open(
-                  "https://api.whatsapp.com/send?phone=919997690669",
+                  "https://api.whatsapp.com/send?phone=918303777132",
                   "_blank"
                 )
               }
               className="bg-[#15803d] text-white px-6 py-2 rounded-lg cursor-pointer hover:bg-[#166534] transition-colors whitespace-nowrap font-medium"
             >
-              Contact Us
+              Start Investing
             </button>
           </div>
 
