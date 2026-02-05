@@ -18,20 +18,20 @@ const WhyChooseSection: React.FC = () => {
           </p>
         </div>
 
-        <div className="flex flex-col md:flex-row items-center gap-10 md:gap-20">
+        <div className="flex flex-col lg:flex-row items-center gap-10 lg:gap-20">
           {/* Image */}
-          <div className="md:w-1/2">
+          <div className="lg:w-1/2">
             <Image
               src="/why-choose-us.png"
               alt="Investment Consulting"
               width={500}
               height={450}
-              className="rounded-xl shadow-lg object-cover"
+              className="rounded-xl shadow-lg object-cover w-full"
             />
           </div>
 
           {/* Content */}
-          <div className="md:w-1/2">
+          <div className="lg:w-1/2">
             <h3 className="font-semibold text-2xl sm:text-3xl mb-6">
               A Trusted Partner in Your Investment Journey
             </h3>
