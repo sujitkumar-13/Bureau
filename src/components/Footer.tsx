@@ -48,9 +48,6 @@ const Footer: React.FC = () => {
               <a href="/#blogs" className="block text-gray-400 hover:text-white">
                 Blog
               </a>
-              <a href="/#courses" className="block text-gray-400 hover:text-white">
-                Courses
-              </a>
               <a href="/#services" className="block text-gray-400 hover:text-white">
                 Our Focus
               </a>
