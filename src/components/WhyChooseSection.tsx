@@ -213,7 +213,7 @@ const WhyChooseSection: React.FC = () => {
           {/* Header */}
           <div className="text-center space-y-4 mb-16">
             <h2 className="text-4xl font-bold text-gray-900">
-              Why Choose Stock India
+              Why Choose Stock Bureau India
             </h2>
             <p className="text-xl text-gray-600">
               Research-driven investing with a long-term mindset

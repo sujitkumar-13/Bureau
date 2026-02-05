@@ -20,7 +20,7 @@ export default function AboutUs() {
               <div className="relative rounded-2xl overflow-hidden shadow-xl aspect-video lg:aspect-square max-h-[500px]">
                 <Image
                   src="/why-choose-us.png" // Reusing this relevant image
-                  alt="Stock India Team and Philosophy"
+                  alt="Stock Bureau India Team and Philosophy"
                   fill
                   className="object-cover"
                   priority
@@ -34,7 +34,7 @@ export default function AboutUs() {
                 Who We Are
               </h2>
               <p>
-                <strong>Stock India</strong> is a premier stock market consulting
+                <strong>Stock Bureau India</strong> is a premier stock market consulting
                 and investment advisory firm based in Varanasi. We were built on a
                 simple yet powerful belief: investing should be <strong>informed, disciplined, and honest</strong>.
               </p>

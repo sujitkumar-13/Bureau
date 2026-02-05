@@ -13,7 +13,7 @@ export default function PrivacyPolicy() {
 
           <div className="prose prose-lg max-w-none text-gray-700 space-y-6">
             <p>
-              Stock India respects your privacy and is committed to
+              Stock Bureau India respects your privacy and is committed to
               protecting the personal information you share with us. This
               Privacy Policy explains how we collect, use, disclose, and
               safeguard your information when you visit our website or contact
@@ -114,7 +114,7 @@ export default function PrivacyPolicy() {
                 6. Third-Party Links
               </h2>
               <p>
-                Our website may contain links to third-party websites. Stock India is not responsible for the privacy practices or
+                Our website may contain links to third-party websites. Stock Bureau India is not responsible for the privacy practices or
                 content of such external sites.
               </p>
             </section>
@@ -150,7 +150,7 @@ export default function PrivacyPolicy() {
                 9. Updates to This Policy
               </h2>
               <p>
-                Stock India reserves the right to update or modify this
+                Stock Bureau India reserves the right to update or modify this
                 Privacy Policy at any time. Changes will be reflected on this
                 page.
               </p>

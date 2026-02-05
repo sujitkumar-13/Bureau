@@ -9,7 +9,7 @@ export default function DisclaimerPage() {
 
         <p className="text-gray-600 mb-6">
           The information provided on this website by{" "}
-          <strong>Stock India</strong> is for general informational and
+          <strong>Stock Bureau India</strong> is for general informational and
           educational purposes only. It should not be considered as investment
           advice, financial planning advice, or a recommendation to buy, sell,
           or hold any securities.
@@ -20,7 +20,7 @@ export default function DisclaimerPage() {
           No Investment Advice
         </h2>
         <p className="text-gray-600">
-          Stock India does not provide guaranteed returns, assured
+          Stock Bureau India does not provide guaranteed returns, assured
           profits, or risk-free investment solutions. All content, communication,
           and material shared through the website, calls, messages, or meetings
           is intended solely to help users understand market concepts and
@@ -48,7 +48,7 @@ export default function DisclaimerPage() {
         <ul className="list-disc list-inside text-gray-600 space-y-2">
           <li>All investment decisions are made at the user’s own discretion</li>
           <li>
-            Stock India shall not be held responsible for any financial
+            Stock Bureau India shall not be held responsible for any financial
             losses
           </li>
           <li>
@@ -64,7 +64,7 @@ export default function DisclaimerPage() {
           Accuracy of Information
         </h2>
         <p className="text-gray-600">
-          While Stock India strives to provide accurate and updated
+          While Stock Bureau India strives to provide accurate and updated
           information, we do not guarantee the completeness, reliability, or
           accuracy of any content. Information may change without prior notice.
         </p>
@@ -75,7 +75,7 @@ export default function DisclaimerPage() {
         </h2>
         <p className="text-gray-600">
           This website may contain references or links to third-party websites.
-          Stock India does not endorse or take responsibility for the
+          Stock Bureau India does not endorse or take responsibility for the
           content, accuracy, or privacy practices of such external sites.
         </p>
 
@@ -84,7 +84,7 @@ export default function DisclaimerPage() {
           No Client Account Handling
         </h2>
         <p className="text-gray-600">
-          Stock India does not operate, manage, or execute trades in
+          Stock Bureau India does not operate, manage, or execute trades in
           client demat or trading accounts. All transactions are carried out by
           clients through registered brokers at their own discretion.
         </p>
@@ -94,7 +94,7 @@ export default function DisclaimerPage() {
           Limitation of Liability
         </h2>
         <p className="text-gray-600">
-          Stock India shall not be liable for any direct or indirect
+          Stock Bureau India shall not be liable for any direct or indirect
           financial losses, investment decisions based on shared information,
           technical issues, or service interruptions.
         </p>
@@ -104,7 +104,7 @@ export default function DisclaimerPage() {
           Regulatory Compliance
         </h2>
         <p className="text-gray-600">
-          Stock India operates in accordance with applicable Indian laws
+          Stock Bureau India operates in accordance with applicable Indian laws
           and regulatory guidelines.
         </p>
 

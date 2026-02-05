@@ -14,7 +14,7 @@ export default function TermsConditions() {
           <div className="prose prose-lg max-w-none text-gray-700 space-y-6">
             <p>
               By accessing this website and availing services from{" "}
-              <strong>Stock India</strong>, you agree to the following
+              <strong>Stock Bureau India</strong>, you agree to the following
               Terms & Conditions. Please read them carefully before using our
               services.
             </p>
@@ -25,7 +25,7 @@ export default function TermsConditions() {
                 1. Scope of Services
               </h2>
               <p>
-                Stock India provides investment education, market
+                Stock Bureau India provides investment education, market
                 insights, and consulting services to help clients understand
                 stock market concepts and investment strategies.
               </p>
@@ -37,7 +37,7 @@ export default function TermsConditions() {
                 </li>
               </ul>
               <p className="mt-4">
-                Stock India does not operate client demat or trading
+                Stock Bureau India does not operate client demat or trading
                 accounts and does not execute trades on behalf of clients.
               </p>
             </section>
@@ -50,7 +50,7 @@ export default function TermsConditions() {
               <ul className="list-disc pl-6 space-y-2">
                 <li>Stock market investments are subject to market risks</li>
                 <li>
-                  Stock India does not provide assured or guaranteed
+                  Stock Bureau India does not provide assured or guaranteed
                   returns
                 </li>
                 <li>
@@ -69,7 +69,7 @@ export default function TermsConditions() {
               <h2 className="text-2xl font-semibold text-gray-900 mb-4">
                 3. No Guarantee of Returns
               </h2>
-              <p>Stock India does not guarantee:</p>
+              <p>Stock Bureau India does not guarantee:</p>
               <ul className="list-disc pl-6 space-y-2">
                 <li>Profits</li>
                 <li>Fixed or minimum returns</li>
@@ -126,7 +126,7 @@ export default function TermsConditions() {
               <h2 className="text-2xl font-semibold text-gray-900 mb-4">
                 6. Limitation of Liability
               </h2>
-              <p>Stock India shall not be liable for:</p>
+              <p>Stock Bureau India shall not be liable for:</p>
               <ul className="list-disc pl-6 space-y-2">
                 <li>Losses due to market movements</li>
                 <li>
@@ -143,7 +143,7 @@ export default function TermsConditions() {
                 7. No Unauthorized Representation
               </h2>
               <p>
-                No employee, associate, or representative of Stock India
+                No employee, associate, or representative of Stock Bureau India
                 is authorized to:
               </p>
               <ul className="list-disc pl-6 space-y-2">
@@ -186,7 +186,7 @@ export default function TermsConditions() {
                 10. Updates & Modifications
               </h2>
               <p>
-                Stock India reserves the right to modify these Terms &
+                Stock Bureau India reserves the right to modify these Terms &
                 Conditions in line with regulatory or business requirements.
                 Continued use of services implies acceptance of updated terms.
               </p>

@@ -15,7 +15,7 @@ export default function CancellationRefund() {
             <p>
               This Refund & Cancellation Policy outlines the terms under which
               refunds or cancellations may be requested for services offered by{" "}
-              <strong>Stock India</strong>.
+              <strong>Stock Bureau India</strong>.
             </p>
 
             {/* 1. Nature of Services */}
@@ -24,7 +24,7 @@ export default function CancellationRefund() {
                 1. Nature of Services
               </h2>
               <p>
-                Stock India provides investment consulting, advisory
+                Stock Bureau India provides investment consulting, advisory
                 guidance, and educational services.
               </p>
               <p className="mt-4">
@@ -117,7 +117,7 @@ export default function CancellationRefund() {
               </ul>
               <p className="mt-4">
                 Stock market outcomes are market-driven and beyond the control
-                of Stock India.
+                of Stock Bureau India.
               </p>
             </section>
 
@@ -126,7 +126,7 @@ export default function CancellationRefund() {
               <h2 className="text-2xl font-semibold text-gray-900 mb-4">
                 7. Modification of Services
               </h2>
-              <p>Stock India reserves the right to:</p>
+              <p>Stock Bureau India reserves the right to:</p>
               <ul className="list-disc pl-6 space-y-2">
                 <li>Modify or reschedule services</li>
                 <li>Change service structure or pricing</li>
@@ -146,7 +146,7 @@ export default function CancellationRefund() {
                 8. Policy Updates
               </h2>
               <p>
-                Stock India reserves the right to update or modify this
+                Stock Bureau India reserves the right to update or modify this
                 Refund & Cancellation Policy at any time. Changes will be
                 effective immediately upon posting on the website.
               </p>

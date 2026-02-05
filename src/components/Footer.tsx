@@ -21,7 +21,7 @@ const Footer: React.FC = () => {
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
               <div className="text-2xl font-bold text-[#15803d] font-montserrat">
-                Stock
+                Stock Bureau
               </div>
               <div className="text-2xl font-bold text-gray-300 font-montserrat">
                 India
@@ -171,7 +171,7 @@ const Footer: React.FC = () => {
 
         {/* Footer Bottom */}
         <div className="border-t border-gray-800 mt-8 pt-6 text-center text-gray-400 text-sm space-y-2">
-          <p>© 2026 Stock India Trading. All rights reserved.</p>
+          <p>© 2026 Stock Bureau India Trading. All rights reserved.</p>
           <p>
             Developed by{" "}
             <a

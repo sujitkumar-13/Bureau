@@ -18,7 +18,7 @@ const testimonials: Testimonial[] = [
     role: "Varanasi",
     image: "/testimonials/1.jpg",
     feedback:
-      "Before coming to Stock India, the stock market felt confusing. They explained things in a simple way and focused more on managing risk than making false promises. That really built my trust.",
+      "Before coming to Stock Bureau India, the stock market felt confusing. They explained things in a simple way and focused more on managing risk than making false promises. That really built my trust.",
     rating: 5,
   },
   {
@@ -69,7 +69,7 @@ const TestimonialsSection: React.FC = () => {
             What Our Clients Say
           </h2>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-            Trust isn't built overnight. It grows with honest advice, clear communication, and responsible guidance. Here's what our clients have to say about their journey with Stock India.
+            Trust isn't built overnight. It grows with honest advice, clear communication, and responsible guidance. Here's what our clients have to say about their journey with Stock Bureau India.
           </p>
         </div>
 

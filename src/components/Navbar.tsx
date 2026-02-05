@@ -16,7 +16,7 @@ const Navbar: React.FC = () => {
                 width={200}
                 height={60}
                 src="/nlogo2.png"
-                alt="Stock India"
+                alt="Stock Bureau India"
                 className="h-10 w-auto sm:h-12 md:h-14"
               />
             </div>
