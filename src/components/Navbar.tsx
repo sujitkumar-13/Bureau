@@ -146,7 +146,7 @@ const Navbar: React.FC = () => {
             }}
             className="bg-[#15803d] text-white px-6 py-3 rounded-lg cursor-pointer hover:bg-[#166534] transition-colors font-medium text-center w-full"
           >
-           Start Investing
+           Start Invest
           </button>
         </div>
       </div>
