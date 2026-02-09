@@ -123,16 +123,6 @@ const Footer: React.FC = () => {
                 <FaInstagram className="w-5 h-5" />
               </a>
 
-              {/* Telegram */}
-              <a
-                href="https://t.me/"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="w-10 h-10 bg-gray-800 rounded-full flex items-center justify-center hover:bg-[#15803d] transition"
-              >
-                <FaTelegramPlane className="w-5 h-5" />
-              </a>
-
               {/* WhatsApp */}
               <a
                 href="https://api.whatsapp.com/send?phone=916394016514"
@@ -151,26 +141,6 @@ const Footer: React.FC = () => {
                 className="w-10 h-10 bg-gray-800 rounded-full flex items-center justify-center hover:bg-[#15803d] transition"
               >
                 <FaFacebookF className="w-5 h-5" />
-              </a>
-
-              {/* Twitter / X */}
-              <a
-                href="https://twitter.com/"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="w-10 h-10 bg-gray-800 rounded-full flex items-center justify-center hover:bg-black transition"
-              >
-                <FaXTwitter className="w-5 h-5" />
-              </a>
-
-              {/* LinkedIn */}
-              <a
-                href="https://www.linkedin.com/"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="w-10 h-10 bg-gray-800 rounded-full flex items-center justify-center hover:bg-[#15803d] transition"
-              >
-                <FaLinkedinIn className="w-5 h-5" />
               </a>
             </div>
             <div className="text-gray-400 space-y-2 mt-4">
