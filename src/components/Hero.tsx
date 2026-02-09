@@ -33,7 +33,7 @@ const Hero: React.FC = () => {
             {/* CTA Buttons */}
             <div className="flex flex-col sm:flex-row gap-4">
               <a
-                href="https://api.whatsapp.com/send?phone=918303777132"
+                href="https://api.whatsapp.com/send?phone=916394016514"
                 className="inline-flex items-center justify-center cursor-pointer bg-primary text-white px-8 py-4 rounded-lg text-lg font-semibold bg-[#15803d] hover:bg-[#166534] transition-colors whitespace-nowrap"
               >
                 Start Investing

@@ -68,7 +68,7 @@ const Navbar: React.FC = () => {
             <button
               onClick={() =>
                 window.open(
-                  "https://api.whatsapp.com/send?phone=918303777132",
+                  "https://api.whatsapp.com/send?phone=916394016514",
                   "_blank"
                 )
               }
@@ -139,7 +139,7 @@ const Navbar: React.FC = () => {
           <button
             onClick={() => {
               window.open(
-                "https://api.whatsapp.com/send?phone=918303777132",
+                "https://api.whatsapp.com/send?phone=916394016514",
                 "_blank"
               );
               closeMenu();

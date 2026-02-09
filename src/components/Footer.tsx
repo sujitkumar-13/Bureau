@@ -181,10 +181,10 @@ const Footer: React.FC = () => {
           <p>
             Developed by{" "}
             <a
-              href="tel:+918303777132"
+              href="tel:+916394016514"
               className="text-gray-300 hover:text-white font-medium"
             >
-              SkyTouch Media (+91-8303777132)
+              SkyTouch Media (+91-6394016514)
             </a>
           </p>
         </div>
