@@ -37,6 +37,7 @@ const Footer: React.FC = () => {
               succeed in financial markets.
             </p>
             <p>Address: Dawarka Mor, Near Mor Metro Station, Delhi, 110078.</p>
+
           </div>
 
           {/* Quick Links */}
@@ -171,6 +172,30 @@ const Footer: React.FC = () => {
               >
                 <FaLinkedinIn className="w-5 h-5" />
               </a>
+            </div>
+            <div className="text-gray-400 space-y-2 mt-4">
+              <p>
+                Phone:{" "}
+                <a
+                  href="tel:+916394016514"
+                  className="hover:text-white transition"
+                >
+                  +91 63940 16514
+                </a>
+                ,{" "}
+                <a href="tel:7084343907" className="hover:text-white transition">
+                  7084343907
+                </a>
+              </p>
+              <p>
+                Email:{" "}
+                <a
+                  href="mailto:optionsstock181@gmail.com"
+                  className="hover:text-white transition"
+                >
+                  optionsstock181@gmail.com
+                </a>
+              </p>
             </div>
           </div>
         </div>
